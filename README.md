@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Giovanna0208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&include_all_commits=true&bg_color=90,FAD7A1,E96D71&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,FAD7A1,E96D71&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna0208&layout=compact&langs_count=10&bg_color=90,FAD7A1,E96D71&hide_border=true&title_color=000000&text_color=000000&border_radius=20"/>
 </div>
@@ -32,5 +32,5 @@
 <div> 
   <a href="https://instagram.com/_giovanna_ramos/" target="_blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>
   <a href = "mailto:gikaaramos2013@gmail.com"><img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
-  <a href="https://linkedin.com/in/giovanna-dos-santos-ramos/" target="_blank"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640210026~hmac=4383b68f962bda6558134b6ff7cde928"></a> 
+  <a href="https://linkedin.com/in/giovanna-dos-santos-ramos/" target="_blank"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1652797298~hmac=78e62b0c645c3ff1c0450deb24928106"></a> 
 </div>
