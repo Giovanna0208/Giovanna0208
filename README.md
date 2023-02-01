@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/Giovanna0208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&count_private=true&include_all_commits=true&bg_color=45,833ab4,fcb045&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,833ab4,fcb045&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna0208&layout=compact&langs_count=10&bg_color=45,fcb045,833ab4&hide_border=true&title_color=000000&text_color=000000&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna0208&layout=compact&langs_count=10&bg_color=0,fcb045,833ab4&hide_border=true&title_color=000000&text_color=000000&border_radius=20"/>
 </div>
  
 <div style="display: inline_block"><br>
