@@ -1,11 +1,11 @@
 <div>
   <a href="https://github.com/Giovanna0208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,833ab4,fcb045&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna0208&show_icons=true&count_private=true&include_all_commits=true&bg_color=0,8C5246,C5B599&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_radius=20"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna0208&layout=compact&langs_count=10&bg_color=0,fcb045,833ab4&hide_border=true&title_color=000000&text_color=000000&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna0208&layout=compact&langs_count=10&bg_color=0,C5B599,8C5246&hide_border=true&title_color=000000&text_color=000000&border_radius=20"/>
 </div>
- 
-<div style="display: inline_block"><br>
+  
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
@@ -17,11 +17,10 @@
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Rainbow-Cat" height="130" width="130" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif?fit=706%2C610&ssl=1">
 </div>
   
-  ##
- 
+##
+
 <div> 
   <a href="https://instagram.com/_giovanna_ramos/" target="_blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
   <a href = "mailto:gikaaramos2013@gmail.com"><img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" target="_blank"></a>
